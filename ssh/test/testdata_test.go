@@ -12,8 +12,8 @@ import (
 	"crypto/rand"
 	"fmt"
 
-	"golang.org/x/crypto/ssh"
-	"golang.org/x/crypto/ssh/testdata"
+	"github.com/Scorpio69t/crypto/ssh"
+	"github.com/Scorpio69t/crypto/ssh/testdata"
 )
 
 var (

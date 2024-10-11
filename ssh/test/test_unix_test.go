@@ -22,9 +22,9 @@ import (
 	"testing"
 	"text/template"
 
-	"golang.org/x/crypto/internal/testenv"
-	"golang.org/x/crypto/ssh"
-	"golang.org/x/crypto/ssh/testdata"
+	"github.com/Scorpio69t/crypto/internal/testenv"
+	"github.com/Scorpio69t/crypto/ssh"
+	"github.com/Scorpio69t/crypto/ssh/testdata"
 )
 
 const (
